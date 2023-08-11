@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkjim456 aka MD. Kamruzzaman
 - 👀 I’m interested in ... Mobile Application development with dart-flutter and web development with Html-Css
-- 🌱 I’m currently learning ...  
+- 🌱 I’m currently learning ...  C# and Asp.net based web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mkjim123@gmail.com
 
